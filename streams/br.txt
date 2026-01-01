@@ -418,3 +418,4 @@ https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AWTV.br@HD",AWTV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
+
